@@ -1,13 +1,13 @@
 # 📊 Project Status Dashboard
 
-> Last updated: Wed, 29 Jul 2026 01:29:55 GMT
+> Last updated: Wed, 29 Jul 2026 08:18:50 GMT
 
 ## 🎯 Overall Health
 
 | Metric | Status | Value |
 |--------|--------|-------|
-| **Build Success Rate** | 🔴 | 40.0% |
-| **Open Issues** | 🟡 | 12 |
+| **Build Success Rate** | 🔴 | 34.0% |
+| **Open Issues** | 🟡 | 13 |
 | **Open PRs** | 🟢 | 0 |
 | **Latest Deployment** | 🔴 | in_progress |
 | **Commits (24h)** | 🟡 | 3 |
@@ -18,19 +18,19 @@
 |--------|---------|--------|-------------|
 | `2026-07-06-sy9w` | fix: Add authentication guards to preven | 🔄 | 17d ago |
 | `claude/shiritori-game-main-0qyb3h` | fix(ci): unblock unit tests and app buil | 🔄 | 21d ago |
-| `dependabot/github_actions/actions/dependency-review-action-5` | chore(deps): bump actions/dependency-rev | 🔄 | 21d ago |
-| `dependabot/github_actions/actions/download-artifact-8` | chore(deps): bump actions/download-artif | 🔄 | 21d ago |
+| `dependabot/github_actions/actions/dependency-review-action-5` | chore(deps): bump actions/dependency-rev | 🔄 | 22d ago |
+| `dependabot/github_actions/actions/download-artifact-8` | chore(deps): bump actions/download-artif | 🔄 | 22d ago |
 | `dependabot/github_actions/actions/setup-node-7` | chore(deps): bump actions/setup-node fro | 🔄 | 12d ago |
 | `dependabot/github_actions/actions/upload-artifact-7` | chore(deps): bump actions/upload-artifac | 🔄 | 21d ago |
-| `dependabot/github_actions/github/codeql-action-4` | chore(deps): bump github/codeql-action f | 🔄 | 21d ago |
+| `dependabot/github_actions/github/codeql-action-4` | chore(deps): bump github/codeql-action f | 🔄 | 22d ago |
 | `dependabot/npm_and_yarn/kawaii-shiritori/lint-format-0d378e6f0d` | chore(deps-dev): bump the lint-format gr | 🔄 | 1d ago |
-| `dependabot/npm_and_yarn/kawaii-shiritori/lint-staged-17.0.8` | chore(deps-dev): bump lint-staged in /ka | 🔄 | 21d ago |
-| `dependabot/npm_and_yarn/kawaii-shiritori/multi-c62902aa62` | chore(deps-dev): bump esbuild, vite, @vi | 🔄 | 21d ago |
+| `dependabot/npm_and_yarn/kawaii-shiritori/lint-staged-17.0.8` | chore(deps-dev): bump lint-staged in /ka | 🔄 | 22d ago |
+| `dependabot/npm_and_yarn/kawaii-shiritori/multi-c62902aa62` | chore(deps-dev): bump esbuild, vite, @vi | 🔄 | 22d ago |
 
 ## 🎯 Active Work
 
 ### Open Issues by Type
-- 🐛 **Bugs**: 11
+- 🐛 **Bugs**: 12
 - ✨ **Features**: 0
 - 📋 **Other**: 1
 
