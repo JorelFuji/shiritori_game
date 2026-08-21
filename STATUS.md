@@ -1,13 +1,13 @@
 # 📊 Project Status Dashboard
 
-> Last updated: Fri, 21 Aug 2026 00:39:28 GMT
+> Last updated: Fri, 21 Aug 2026 06:27:05 GMT
 
 ## 🎯 Overall Health
 
 | Metric | Status | Value |
 |--------|--------|-------|
 | **Build Success Rate** | 🔴 | 18.0% |
-| **Open Issues** | 🔴 | 35 |
+| **Open Issues** | 🔴 | 36 |
 | **Open PRs** | 🟢 | 0 |
 | **Latest Deployment** | 🔴 | in_progress |
 | **Commits (24h)** | 🟡 | 3 |
@@ -18,19 +18,19 @@
 |--------|---------|--------|-------------|
 | `2026-07-06-sy9w` | fix: Add authentication guards to preven | 🔄 | 40d ago |
 | `claude/shiritori-game-main-0qyb3h` | fix(ci): unblock unit tests and app buil | 🔄 | 44d ago |
-| `dependabot/github_actions/actions/dependency-review-action-5` | chore(deps): bump actions/dependency-rev | 🔄 | 44d ago |
-| `dependabot/github_actions/actions/download-artifact-8` | chore(deps): bump actions/download-artif | 🔄 | 44d ago |
+| `dependabot/github_actions/actions/dependency-review-action-5` | chore(deps): bump actions/dependency-rev | 🔄 | 45d ago |
+| `dependabot/github_actions/actions/download-artifact-8` | chore(deps): bump actions/download-artif | 🔄 | 45d ago |
 | `dependabot/github_actions/actions/setup-node-7` | chore(deps): bump actions/setup-node fro | 🔄 | 35d ago |
 | `dependabot/github_actions/actions/upload-artifact-7` | chore(deps): bump actions/upload-artifac | 🔄 | 44d ago |
-| `dependabot/github_actions/github/codeql-action-4` | chore(deps): bump github/codeql-action f | 🔄 | 44d ago |
+| `dependabot/github_actions/github/codeql-action-4` | chore(deps): bump github/codeql-action f | 🔄 | 45d ago |
 | `dependabot/npm_and_yarn/kawaii-shiritori/body-parser-1.20.6` | chore(deps): bump body-parser from 1.20. | 🔄 | 22d ago |
-| `dependabot/npm_and_yarn/kawaii-shiritori/brace-expansion-1.1.18` | Bump brace-expansion from 1.1.15 to 1.1. | 🔄 | 15d ago |
-| `dependabot/npm_and_yarn/kawaii-shiritori/js-yaml-4.3.1` | Bump js-yaml from 4.3.0 to 4.3.1 in /kaw | 🔄 | 8d ago |
+| `dependabot/npm_and_yarn/kawaii-shiritori/brace-expansion-1.1.18` | Bump brace-expansion from 1.1.15 to 1.1. | 🔄 | 16d ago |
+| `dependabot/npm_and_yarn/kawaii-shiritori/js-yaml-4.3.1` | Bump js-yaml from 4.3.0 to 4.3.1 in /kaw | 🔄 | 9d ago |
 
 ## 🎯 Active Work
 
 ### Open Issues by Type
-- 🐛 **Bugs**: 34
+- 🐛 **Bugs**: 35
 - ✨ **Features**: 0
 - 📋 **Other**: 1
 
