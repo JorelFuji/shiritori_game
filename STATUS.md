@@ -1,12 +1,12 @@
 # 📊 Project Status Dashboard
 
-> Last updated: Thu, 20 Aug 2026 18:22:25 GMT
+> Last updated: Fri, 21 Aug 2026 00:39:28 GMT
 
 ## 🎯 Overall Health
 
 | Metric | Status | Value |
 |--------|--------|-------|
-| **Build Success Rate** | 🔴 | 10.0% |
+| **Build Success Rate** | 🔴 | 18.0% |
 | **Open Issues** | 🔴 | 35 |
 | **Open PRs** | 🟢 | 0 |
 | **Latest Deployment** | 🔴 | in_progress |
@@ -20,7 +20,7 @@
 | `claude/shiritori-game-main-0qyb3h` | fix(ci): unblock unit tests and app buil | 🔄 | 44d ago |
 | `dependabot/github_actions/actions/dependency-review-action-5` | chore(deps): bump actions/dependency-rev | 🔄 | 44d ago |
 | `dependabot/github_actions/actions/download-artifact-8` | chore(deps): bump actions/download-artif | 🔄 | 44d ago |
-| `dependabot/github_actions/actions/setup-node-7` | chore(deps): bump actions/setup-node fro | 🔄 | 34d ago |
+| `dependabot/github_actions/actions/setup-node-7` | chore(deps): bump actions/setup-node fro | 🔄 | 35d ago |
 | `dependabot/github_actions/actions/upload-artifact-7` | chore(deps): bump actions/upload-artifac | 🔄 | 44d ago |
 | `dependabot/github_actions/github/codeql-action-4` | chore(deps): bump github/codeql-action f | 🔄 | 44d ago |
 | `dependabot/npm_and_yarn/kawaii-shiritori/body-parser-1.20.6` | chore(deps): bump body-parser from 1.20. | 🔄 | 22d ago |
